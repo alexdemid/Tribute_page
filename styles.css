@@ -1,0 +1,58 @@
+#img-div{
+    background-color:white;
+    padding:5px;
+    margin:16px 15px;
+    }
+    
+#main{
+    background-color:rgb(240,240,240);
+    border-radius:5px;
+    margin-top:30px;
+    margin-bottom:30px;
+    text-align: center;
+    color:rgb(50,50,50);
+    font-family: Verdana, sans-serif;
+    line-height: 200%;
+    }
+    
+    
+#image{
+      display: block;
+      margin:5px auto;
+      width: 80%;
+      max-width: 100%;
+      height: auto;
+    }
+
+#title{
+    padding-top: 50px;
+    font-size: 2.4em;
+}
+
+h2{
+    font-size: 1.1em;
+    padding: 40px   ;
+}
+
+#img-caption{
+    margin: 10px;
+}
+
+li, blockquote{
+    text-align: left;
+}
+
+blockquote{
+    margin-top:50px ;
+    margin-bottom:50px ;
+}
+
+#tribute-info{
+    margin:auto;
+    max-width:600px;
+    font-size: 0.9em;
+}
+
+footer{
+    padding-bottom: 30px;
+}
